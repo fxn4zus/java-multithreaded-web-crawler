@@ -50,5 +50,5 @@ java-multithreaded-web-crawler/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/java-multithreaded-web-crawler.git
+git clone https://github.com/fxn4zus/java-multithreaded-web-crawler.git
 cd java-multithreaded-web-crawler
